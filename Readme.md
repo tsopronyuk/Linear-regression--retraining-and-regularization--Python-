@@ -1,6 +1,5 @@
 
 # Linear regression: retraining and regularization
-## Линейная регрессия: переобучение и регуляризация
 
 
 ```python
